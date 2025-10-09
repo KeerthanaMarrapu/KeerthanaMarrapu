@@ -17,24 +17,22 @@
 ## ✨About Me:
 -🎓 Final year B.Tech CSE(AI & ML)                                                              
 -🔭 I’m currently working on : 
-    Currently, I'm developing an AI Study Buddy, an intelligent learning companion.                
+    Currently, I'm developing an AI Study Buddy, an intelligent learning companion.              
     It is designed to personalize learning and boost user retention using LLMs.                 
--🌱 I’m currently learning :                                                                         
+-🌱 I’m currently learning :                                                                    
     Reinforcement Learning Human Feedback and advanced prompt engineering.                      
--👯 I’m looking to collaborate on :                                                                  
+-👯 I’m looking to collaborate on :                                                             
     AI & ML projects, Open-source tools and Hackathons                                           
--🤔 I’m looking for help with :                                                                      
+-🤔 I’m looking for help with :                                                                 
     Fine-tuning LLMs and PostgreSQL 
 
 ---
 
 ## Current Projects 
 
-- <b>🔹 <a href="https://github.com/your-username/ClickGuard-AI">ClickGuard AI</a></b>  
-  A secure browsing assistant that flags suspicious or phishing URLs using **Python**, **Flask**, and **AI-powered rules**.
-
-- <b>🧠 MediaTech Tools</b> *(Coming Soon)*  
-  Exploring how **Computer Vision** and **Machine Learning** can enhance content curation and production.
+-  <b> 🧠 AI Study Buddy</a></b> (*coming soon*) 
+  A smart study assistant that helps students understand complex topics using **AI & LLMs**.  
+  It can **summarize notes**, **generate quizzes**, and **explain concepts** 
 
 <hr>
 
