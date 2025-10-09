@@ -1,46 +1,57 @@
 ##                              Hi, I'm Keerthana👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+new+roman&weight=500&pause=1000&color=7D9B68F9&width=435&lines=AI+%26+ML+Enthusiast+%7C+Tech+Explorer;Crafting+scalable+ML+applications;Building+responsive+and+performance-driven+websites;Always+Learning%2C+always+coding)](https://git.io/typing-svg)
-```md
-# Hi, I'm Keerthana 👋  
+<h1 align="center">💜 AI & ML 💜</h1>
+
+---
+
+✨ **Final Year B.Tech | AI & ML Engineer | Full Stack Explorer** ✨  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6aa84f&size=24&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Tech+Explorer;Full+Stack+Learner;Always+Curious+and+Learning!" />
+  <a href="https://linkedin.com/in/your-linkedin"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="https://leetcode.com/your-leetcode"> <img src="https://img.shields.io/badge/LEETCODE-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/> </a>
+  <a href="https://codechef.com/your-codechef"> <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> </a>
+  <a href="mailto:yourmail@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 ---
 
-## ✨ About Me  
+## 💜 About Me
+
+- 🎓 Final Year B.Tech CSE (AI & ML)
+- 💼 Research Intern @ SCAAI | IEEE Student Ambassador
+- 🌟 Passionate about blending AI, AR/VR, and Design Thinking
+- 🔥 Exploring ReactJS, Flask, Node.js
+- 📫 Reach me at: [yourmail@gmail.com](mailto:yourmail@gmail.com)
 
 ---
 
-🎓 **Final Year B.Tech CSE (AI & ML)**  
-
----
-
-🚀 **I’m currently working on:**  
-Currently, I'm developing **AI Study Buddy**, an intelligent learning companion.  
-It is designed to personalize learning and boost user retention using **LLMs**.  
-
----
-
-🌱 **I’m currently learning:**  
-Reinforcement Learning with Human Feedback (**RLHF**) and **Advanced Prompt Engineering**.  
-
----
-
-🤝 **I’m looking to collaborate on:**  
-AI & ML projects, open-source tools, and hackathons.  
-
----
-
-🧠 **I’m looking for help with:**  
-Fine-tuning **LLMs** and **PostgreSQL**.  
-
----
+## 🧠 Languages, Tools & Platforms
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KeerthanaMarrapu&label=Profile%20Views&color=6aa84f&style=flat" alt="profile views" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+
 # ✨About Me:
 
 • 🎓 Final year B.Tech CSE(AI & ML)                                                               
