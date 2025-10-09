@@ -1,7 +1,7 @@
 ##                              Hi, I'm Keerthana👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+new+roman&weight=500&pause=1000&color=7D9B68F9&width=435&lines=AI+%26+ML+Enthusiast+%7C+Tech+Explorer;Crafting+scalable+ML+applications;Building+responsive+and+performance-driven+websites;Always+Learning%2C+always+coding)](https://git.io/typing-svg)
 
-<h2>✨**Final Year B.Tech | AI & ML Engineer | Full Stack Learner** ✨<\h2>
+#        ✨**Final Year B.Tech | AI & ML Engineer | Full Stack Learner** ✨
 
 ---
  
