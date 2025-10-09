@@ -1,7 +1,8 @@
 ##                              Hi, I'm Keerthana👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+new+roman&weight=500&pause=1000&color=7D9B68F9&width=435&lines=AI+%26+ML+Enthusiast+%7C+Tech+Explorer;Crafting+scalable+ML+applications;Building+responsive+and+performance-driven+websites;Always+Learning%2C+always+coding)](https://git.io/typing-svg)
 
-✨ **Final Year B.Tech | AI & ML Engineer | Full Stack Explorer** ✨  
+✨**Final Year B.Tech | AI & ML Engineer | Full Stack Learner** ✨  
+
 ---
  
 
@@ -26,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" />
