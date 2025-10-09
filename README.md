@@ -7,16 +7,24 @@
  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-  <a href="https://leetcode.com/your-leetcode"> <img src="https://img.shields.io/badge/LEETCODE-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/> </a>
-  <a href="https://codechef.com/your-codechef"> <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> </a>
-  <a href="mailto:yourmail@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/marrapu-keerthana-a1851828a/"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="https://leetcode.com/https://leetcode.com/u/keerthanamarrapu/"> <img src="https://img.shields.io/badge/LEETCODE-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/> </a>
+  <a href="mailto:marrapukeerthana@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 ---
 
 ## ✨About Me:
--🎓 Final year B.Tech CSE(AI & ML)                                                              -🔭 I’m currently working on :                                                                      Currently, I'm developing an AI Study Buddy, an intelligent learning companion.                  -It is designed to personalize learning and boost user retention using LLMs.                 -🌱 I’m currently learning :                                                                         Reinforcement Learning Human Feedback and advanced prompt engineering.                      -👯 I’m looking to collaborate on :                                                                  AI & ML projects, Open-source tools and Hackathons                                           -🤔 I’m looking for help with :                                                                      Fine-tuning LLMs and PostgreSQL 
+-🎓 Final year B.Tech CSE(AI & ML)                                                              
+-🔭 I’m currently working on : 
+    Currently, I'm developing an AI Study Buddy, an intelligent learning companion.                
+    It is designed to personalize learning and boost user retention using LLMs.                 
+-🌱 I’m currently learning :                                                                         
+    Reinforcement Learning Human Feedback and advanced prompt engineering.                      
+-👯 I’m looking to collaborate on :                                                                  
+    AI & ML projects, Open-source tools and Hackathons                                           
+-🤔 I’m looking for help with :                                                                      
+    Fine-tuning LLMs and PostgreSQL 
 
 ---
 
@@ -42,16 +50,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
 </p>
 
+---
 
-# ✨About Me:
-
-• 🎓 Final year B.Tech CSE(AI & ML)                                                               
-• 🔭 I’m currently working on :                                                                   
-     Currently, I'm developing an AI Study Buddy, an intelligent learning companion.                  
-     -It is designed to personalize learning and boost user retention using LLMs.                     
-• 🌱 I’m currently learning :                                                                     
-      Reinforcement Learning Human Feedback and advanced prompt engineering.                          
-• 👯 I’m looking to collaborate on :                                                              
-      AI & ML projects, Open-source tools and Hackathons                                              
-• 🤔 I’m looking for help with :                                                                  
-      Fine-tuning LLMs and PostgreSQL 
+## 📈Contribution Graph
