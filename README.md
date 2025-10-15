@@ -32,7 +32,7 @@
 
 ## 🚀 Current Projects 
 
--  <b> 🧠 AI Study Buddy</a></b> (*coming soon*) 
+-  <b> 🧠 AI Study Buddy</a></b>
 
 A smart study assistant that helps students understand complex topics using **AI & LLMs**.  
   It can **summarize notes**, **generate quizzes**, and **explain concepts** 
